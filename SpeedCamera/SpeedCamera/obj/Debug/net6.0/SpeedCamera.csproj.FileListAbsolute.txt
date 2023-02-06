@@ -1,0 +1,15 @@
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.csproj.AssemblyReference.cache
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.AssemblyInfoInputs.cache
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.AssemblyInfo.cs
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.csproj.CoreCompileInputs.cache
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\bin\Debug\net6.0\SpeedCamera.exe
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\bin\Debug\net6.0\SpeedCamera.deps.json
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\bin\Debug\net6.0\SpeedCamera.runtimeconfig.json
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\bin\Debug\net6.0\SpeedCamera.dll
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\bin\Debug\net6.0\SpeedCamera.pdb
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.dll
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\refint\SpeedCamera.dll
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.pdb
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\SpeedCamera.genruntimeconfig.cache
+C:\Users\Delaina\source\repos\SpeedCamera\SpeedCamera\obj\Debug\net6.0\ref\SpeedCamera.dll
